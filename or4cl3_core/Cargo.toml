@@ -1,0 +1,10 @@
+[package]
+name = "or4cl3_core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Placeholder for future dependencies
+
+[lib]
+path = "src/lib.rs"
